@@ -3,6 +3,7 @@
 <h2>Coffee on Cloud</h2>
 
 **Link to the original repository** 
+    
     https://github.com/nguyensjsu/sp19-281-vs3
 
 Built an online coffee ordering **cloud scaled SaaS service** on Amazon Cloud and Heroku.
